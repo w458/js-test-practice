@@ -1,4 +1,4 @@
-
+[![Build Status](https://secure.travis-ci.org/w458/js-test-practice.png)](https://travis-ci.org/w458/js-test-practice)[![Coverage Status](https://coveralls.io/repos/github/w458/js-test-practice/badge.svg)](https://coveralls.io/github/w458/js-test-practice)
 
 [![Build Status](https://travis-ci.org/tea3/js-test-practice.svg?branch=master)](https://travis-ci.org/tea3/js-test-practice) [![Coverage Status](https://img.shields.io/coveralls/tea3/js-test-practice.svg)](https://coveralls.io/r/tea3/js-test-practice?branch=master) <!--[![NPM version](https://badge.fury.io/js/mocha-test.svg)](http://badge.fury.io/js/mocha-test)-->
 
