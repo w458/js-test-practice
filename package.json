@@ -12,11 +12,12 @@
   "author": "",
   "license": "ISC",
   "directories": {
-    "test": "test/"
+    "lib": "lib",
+    "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tea3/js-test-practice"
+    "url": "git+https://github.com/tea3/js-test-practice.git"
   },
   "devDependencies": {
     "eslint": "^4.2.0",
@@ -25,5 +26,9 @@
     "mocha": "^3.4.2",
     "power-assert": "^1.4.4"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/tea3/js-test-practice/issues"
+  },
+  "homepage": "https://github.com/tea3/js-test-practice#readme"
 }
